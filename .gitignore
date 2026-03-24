@@ -1,0 +1,23 @@
+# Flutter/Dart
+
+# Build output
+/build/
+
+# Flutter/Dart dependency directories
+/.packages
+/.dart_tool/
+/Flutter/Flutter/.flutter-plugins
+/Flutter/Flutter/.flutter-plugins-dependencies
+/Flutter/Flutter/.packages
+/Flutter/Flutter/flutter_export_environment.sh
+/Flutter/snapshot/
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Dart specific file
+*.dart_tool/
